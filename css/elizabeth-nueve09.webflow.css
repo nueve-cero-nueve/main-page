@@ -7875,7 +7875,7 @@ a {
   }
 
   .hero_ui-1 {
-  margin-top:130px;
+  margin-top:150px;
   margin-left:20vw;
   }
 
@@ -8125,7 +8125,9 @@ a {
   
 
   .hero-ui-5.pantalla-tec {
-    margin-left: 0;
+    width:30vw;
+    height:auto;
+    margin-top:80px;
   }
 
   .hero-ui-5.pantalla-pagos {
@@ -8194,6 +8196,7 @@ a {
     width: 20%;
     height:auto;
     margin-left: 20vw;
+    margin-top:70px,
   }
 
   .hero_left-wrap {
