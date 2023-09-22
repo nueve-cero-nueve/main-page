@@ -4818,7 +4818,8 @@ a {
   }
 
   .ui-img-1 {
-    max-width: 100%;
+   width:35vw;
+  height:auto;
   }
 
   .hero_left-wrap {
