@@ -1661,7 +1661,7 @@ a {
 
 .hero_ui-1 {
   z-index: 1;
-  width: 40vw;
+  width: 30vw;
   max-height: 40vh;
   -webkit-backdrop-filter: blur(8px);
   backdrop-filter: blur(8px);
